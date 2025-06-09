@@ -11,8 +11,6 @@
 
 ### LEVEL 2
 Чтобы предсказать именно распределение, а не число, воспользуемся формулой:
-$$
-\boxed{ 
-\mathcal{L}_{\text{RM}} = -\log \left( \sum\limits_{i=2}^{10} \sum\limits_{j=1}^{i-1} w_i \cdot l_j \right) 
-}
-$$
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BL%7D_%7B%5Ctext%7BRM%7D%7D%20%3D%20-%5Clog%20%5Cleft(%20%5Csum_%7Bi%3D2%7D%5E%7B10%7D%20%5Csum_%7Bj%3D1%7D%5E%7Bi-1%7D%20w_i%20%5Ccdot%20l_j%20%5Cright)%20" alt="Loss Function">
+</p>
