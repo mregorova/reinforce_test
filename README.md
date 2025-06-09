@@ -3,3 +3,4 @@
 
 Некоторые результаты можно посмотреть здесь: https://wandb.ai/mregorova-mipt/huggingface?nw=nwusermregorova
 
+Параметр avg_reward	показал высокий рост: 1.67465 на train и 1.88537 на eval. 
